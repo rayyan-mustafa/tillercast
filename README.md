@@ -82,7 +82,7 @@ I work trunk-based on `main` in small verified commits and run the checks above 
 
 ## Stack
 
-TypeScript, Next.js, tRPC, Drizzle, PostgreSQL, Redis, Python, FastAPI, Docker, GitHub Actions, GHCR, Playwright, Vitest, FFmpeg, Terraform-free so far (hosting on Netlify and Supabase).
+TypeScript, Next.js, tRPC, Drizzle, PostgreSQL, Redis, Python, FastAPI, Docker, GitHub Actions, GHCR, Playwright, Vitest, FFmpeg. Hosted on Netlify with Supabase Postgres.
 
 ---
 
